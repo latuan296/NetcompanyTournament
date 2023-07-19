@@ -14,7 +14,7 @@ export default function HomeScreen() {
           NativeBase is a simple, modular and accessible component library that gives you building
           blocks to build you React applications.
         </Text>
-        <AntDesign name="user" style={{ fontSize: 50 }} />
+        <AntDesign name="setting" style={{ fontSize: 50 }} />
       </Container>
     </Center>
   );
